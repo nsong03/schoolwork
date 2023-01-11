@@ -1,2 +1,1 @@
-# schoolwork
- 
+#Schoolwork for Nathan Song! Courses: Physics 105 Math W128A Math 118 Physics 5C ... among many others. This repository is very messy, and it's just for me to store my school projects. This probably won't run on your computer.
